@@ -1,0 +1,23 @@
+{
+  "name": "ajs_test_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santeya/ajs_test_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santeya/ajs_test_repo/issues"
+  },
+  "homepage": "https://github.com/Santeya/ajs_test_repo#readme",
+  "dependencies": {
+    "@santeya/ajs": "^1.0.0"
+  }
+}
